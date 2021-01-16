@@ -1,0 +1,79 @@
+*{
+    padding: 0;
+    margin: 0;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+header{
+    background-color: lightgray;
+}
+section{
+    margin-bottom: 100px;
+    
+}
+h1{
+    color: lightseagreen;
+}
+h2{
+    color:darkslategray;
+    font-weight: 900;
+}
+#unick-color{
+    color: limegreen;
+}
+#landing-image{
+    position:relative;
+    padding-bottom: 100px;
+}
+#landing-left{
+    position:relative;
+    padding-bottom: 200px;
+}
+
+.woman-jeaket{
+    width: 200px;
+    height: 200px;
+    object-fit: contain;
+    position: relative;
+    padding-top: 15px;
+    background-color: lemonchiffon;
+    padding: 5px;
+    
+   
+}
+h3{
+    color: rgb(5, 116, 180);
+    font-weight: bold;
+}
+#card-shop{
+    background-color: white;
+    border: 0;
+}
+#card-shop1{
+    background-color: white;
+    border: 0;
+}
+#card-shop2{
+    background-color: white;
+    border: 0;
+}
+.card-menu{
+    border: 0;
+}
+.service-area img{
+    width:50px;
+}
+.service-area{
+    position: relative;
+}
+
+.datails-area {
+    position: relative;
+    padding-left:30px;
+   text-transform: capitalize;
+   color: black;
+   font-size: 10px; 
+}
+.left-area img{
+position: relative;
+padding-left: 100px;
+}
